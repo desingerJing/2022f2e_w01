@@ -30,12 +30,12 @@ https://desingerjing.github.io/2022f2e_w01/dist/index.html
 │   ├── app.min.js (效果相關)
 │   └── skin.min.js (css 相關)
 ├── src
-│   │   ├── font (網站使用的文字)
-│   │   ├── images (樣式檔使用的圖片)
-│   │   ├── include (SCSS 變數檔)
-│   │   ├── app.js (效果相關)
-│   │   ├── main.scss (全站樣式檔)
-│   │   └── skin.js (css 相關)
+│   ├── font (網站使用的文字)
+│   ├── images (樣式檔使用的圖片)
+│   ├── include (SCSS 變數檔)
+│   ├── app.js (效果相關)
+│   ├── main.scss (全站樣式檔)
+│   └── skin.js (css 相關)
 ```
 
 ## 運行方式
