@@ -1,11 +1,17 @@
 # 2022 The F2E - Week01 互動式官方網頁
 *目前還沒完成，之後會再補上效果、RWD*
 
+## 作品說明
+本次作品跳脫以往的切版方式(HTML+SCS+使用各種套件)，改採用 HTML+NPM+Webpack+JavaScript 的方式進行。
+
+目前進度停留在切好桌機版，未來打算用AOS+Animate加入滑鼠捲動的互動效果，也想盡可能達成提版設計師的酷酷需求!
+
 ## Demo url
 https://desingerjing.github.io/2022f2e_w01/dist/index.html
 
 ## 使用技術
 
+- NPM
 - Webpack
 - JavaScript
 - jquery
