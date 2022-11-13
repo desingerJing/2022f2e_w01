@@ -1,6 +1,8 @@
 # 2022 The F2E - Week01 互動式官方網頁
 *目前還沒完成，之後會再補上效果、RWD*
 
+## Demo url
+https://desingerjing.github.io/2022f2e_w01/dist/index.html
 
 ## 使用技術
 
