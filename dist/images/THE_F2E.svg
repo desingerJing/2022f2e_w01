@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" baseProfile="tiny" id="圖層_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="163.6px" height="24px"
+	 viewBox="0 0 163.6 24" overflow="visible" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="24" width="163.6" x="2.4" y="8"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<path d="M4.9,2.6H0V0.1h14.6v2.4H9.7V22H4.9V2.6z M24.3,12.3V22h-4.9V0.1h4.9v9.7h4.9V0.1H34V22h-4.9v-9.7H24.3z M43.7,19.6h9.7V22
+	H38.9V0.1h14.6v2.4h-9.7v7.3H51v2.4h-7.3V19.6z M72.9,9.8h7.3v2.4h-7.3V22h-4.9V0.1h14.6v2.4h-9.7V9.8z M89.9,17.1v-2.4h2.4v-2.4
+	h2.4V9.8h2.4V2.6h-4.9v4.9h-4.9V2.6h2.4V0.1h9.7v2.4h2.4v7.3h-2.4v2.4h-2.4v2.4h-2.4v2.4h-2.4v2.4h9.7V22H87.5v-4.9H89.9z
+	 M111.8,19.6h9.7V22h-14.6V0.1h14.6v2.4h-9.7v7.3h7.3v2.4h-7.3V19.6z"/>
+<path fill="#4CD30C" d="M144.4,10.2h-3.2v3.4h3.2V10.2z"/>
+<path fill="#4CD30C" d="M141.2,13.8H138v3.4h3.2V13.8z"/>
+<path fill="#4CD30C" d="M141.2,6.8H138v3.4h3.2V6.8z"/>
+<path fill="#4CD30C" d="M138,17.2h-3.2v3.4h3.2V17.2z"/>
+<path fill="#4CD30C" d="M138,3.4h-3.2v3.4h3.2V3.4z"/>
+<path fill="#4CD30C" d="M134.8,20.6h-3.2V24h3.2V20.6z"/>
+<path fill="#4CD30C" d="M134.8,0h-3.2v3.4h3.2V0z"/>
+<path fill="#4CD30C" d="M163.6,10.2h-3.2v3.4h3.2V10.2z"/>
+<path fill="#4CD30C" d="M160.4,13.8h-3.2v3.4h3.2V13.8z"/>
+<path fill="#4CD30C" d="M160.4,6.8h-3.2v3.4h3.2V6.8z"/>
+<path fill="#4CD30C" d="M157.2,17.2H154v3.4h3.2V17.2z"/>
+<path fill="#4CD30C" d="M157.2,3.4H154v3.4h3.2V3.4z"/>
+<path fill="#4CD30C" d="M154,20.6h-3.2V24h3.2V20.6z"/>
+<path fill="#4CD30C" d="M154,0h-3.2v3.4h3.2V0z"/>
+</svg>

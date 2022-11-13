@@ -1,0 +1,11 @@
+@mixin rwd($size) {
+    @media (max-width : $size) {
+        @content;
+    }
+}
+
+@mixin min-rwd($size) {
+    @media (min-width : $size) {
+        @content;
+    }
+}
